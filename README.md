@@ -1,4 +1,5 @@
 ## RUN THE SCRIPT IN A EMPTY SCENE OR YOUR BOSS WILL FIRE YOU :)
+![](img/game-play.jpg)
 # FlappyTeapot
 A Mini Game (Flappy Teapot) For 3Ds Max
 
